@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Pedro
 
-<!--
-**PedroGuthDev/PedroGuthDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Fullstack JavaScript em formação  
+🎓 Curso Fullstack JavaScript — OneBitCode  
+📚 Iniciando ADS (Análise e Desenvolvimento de Sistemas)
 
-Here are some ideas to get you started:
+### 🚀 Stack Principal
+- JavaScript (ES6+)
+- Node.js
+- React
+- HTML | CSS
+- Git & GitHub
+- SQL (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projetos em destaque
+- Projetos do curso OneBitCode
+
+🎯 Busco oportunidade como **Dev Júnior / Estágio em Programação**
+
+📫 Contato: pedrohaguth943@gmail.com
