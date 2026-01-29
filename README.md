@@ -20,11 +20,12 @@ Busco minha **primeira oportunidade como Dev Júnior ou Estágio em Programaçã
 ![CSS3](https://img.shields.io/badge/CSS3-Styles-blue)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-red)
 ![GitHub](https://img.shields.io/badge/GitHub-Code-black)
+![SQL](https://img.shields.io/badge/SQL-Basic-blue)
 
 ---
 
 ### 🌍 Idiomas
-- 🇧🇷 Português: Nativo  
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-green)
 ![English](https://img.shields.io/badge/English-Advanced-brightgreen)
 
 ---
