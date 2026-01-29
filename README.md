@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Pedro Gut
+## 👋 Olá, eu sou o Pedro Guth
 
 ![OneBitCode](https://img.shields.io/badge/OneBitCode-Fullstack%20JS-purple)
 ![ADS](https://img.shields.io/badge/ADS-Graduando-informational)
