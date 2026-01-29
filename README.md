@@ -31,7 +31,7 @@ Busco minha **primeira oportunidade como Dev Júnior ou Estágio em Programaçã
 ---
 
 ### 📂 Projetos
-🔹 Projetos desenvolvidos durante o curso Fullstack JavaScript  s
+🔹 Projetos desenvolvidos durante o curso Fullstack JavaScript
 
 *(Em constante evolução 🚀)*
 
