@@ -1,4 +1,7 @@
-## 👋 Olá, eu sou o Pedro Guth
+## 👋 Olá, eu sou o Pedro Gut
+
+![OneBitCode](https://img.shields.io/badge/OneBitCode-Fullstack%20JS-purple)
+![ADS](https://img.shields.io/badge/ADS-Graduando-informational)
 
 💻 Desenvolvedor Fullstack JavaScript em formação  
 🎓 Curso Fullstack JavaScript — OneBitCode  
@@ -10,28 +13,24 @@ Busco minha **primeira oportunidade como Dev Júnior ou Estágio em Programaçã
 ---
 
 ### 🚀 Tecnologias e Ferramentas
-- JavaScript (ES6+)
-- Node.js
-- React
-- HTML5 | CSS3
-- Git & GitHub
-- SQL (básico)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Styles-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![GitHub](https://img.shields.io/badge/GitHub-Code-black)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuthDev&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroGuthDev&show_icons=true)
-
 ### 🌍 Idiomas
 - 🇧🇷 Português: Nativo  
-- 🇺🇸 Inglês: **Avançado** 
+![English](https://img.shields.io/badge/English-Advanced-brightgreen)
 
 ---
 
 ### 📂 Projetos
-🔹 Projetos desenvolvidos durante o curso Fullstack JavaScript  
-🔹 APIs REST com Node.js  
-🔹 Aplicações Fullstack (Frontend + Backend)
+🔹 Projetos desenvolvidos durante o curso Fullstack JavaScript  s
 
 *(Em constante evolução 🚀)*
 
