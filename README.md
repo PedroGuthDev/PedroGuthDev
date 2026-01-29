@@ -1,20 +1,41 @@
-## 👋 Olá, eu sou o Pedro
+## 👋 Olá, eu sou o Pedro Guth
 
 💻 Desenvolvedor Fullstack JavaScript em formação  
 🎓 Curso Fullstack JavaScript — OneBitCode  
-📚 Iniciando ADS (Análise e Desenvolvimento de Sistemas)
+📚 Graduando em Análise e Desenvolvimento de Sistemas (ADS)
 
-### 🚀 Stack Principal
+Sou focado em desenvolvimento web, com interesse em backend e aplicações fullstack.  
+Busco minha **primeira oportunidade como Dev Júnior ou Estágio em Programação**.
+
+---
+
+### 🚀 Tecnologias e Ferramentas
 - JavaScript (ES6+)
 - Node.js
 - React
-- HTML | CSS
+- HTML5 | CSS3
 - Git & GitHub
 - SQL (básico)
 
-### 📂 Projetos em destaque
-- Projetos do curso OneBitCode
+---
 
-🎯 Busco oportunidade como **Dev Júnior / Estágio em Programação**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
 
-📫 Contato: pedrohaguth943@gmail.com
+### 🌍 Idiomas
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: **Avançado** 
+
+---
+
+### 📂 Projetos
+🔹 Projetos desenvolvidos durante o curso Fullstack JavaScript  
+🔹 APIs REST com Node.js  
+🔹 Aplicações Fullstack (Frontend + Backend)
+
+*(Em constante evolução 🚀)*
+
+---
+
+### 📫 Contato
+- Email: pedrohaguth943@gmail.com  
