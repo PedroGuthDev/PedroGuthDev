@@ -19,8 +19,8 @@ Busco minha **primeira oportunidade como Dev Júnior ou Estágio em Programaçã
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroGuthDev&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroGuthDev&show_icons=true)
 
 ### 🌍 Idiomas
 - 🇧🇷 Português: Nativo  
