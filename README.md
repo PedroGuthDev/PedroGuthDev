@@ -25,7 +25,7 @@ Busco minha **primeira oportunidade como Dev Júnior ou Estágio em Programaçã
 ---
 
 ### 🌍 Idiomas
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-green)
+![Português](https://img.shields.io/badge/Portuguese-Native-green)
 ![English](https://img.shields.io/badge/English-Advanced-brightgreen)
 
 ---
