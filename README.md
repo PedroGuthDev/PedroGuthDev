@@ -31,7 +31,9 @@ Busco minha **primeira oportunidade como Dev Júnior ou Estágio em Programaçã
 ---
 
 ### 📂 Projetos
-🔹 Projetos desenvolvidos durante o curso Fullstack JavaScript
+
+🔹 Projetos desenvolvidos durante o curso Fullstack JavaScript:
+🔹🔹 📊 Controle Financeiro: Projeto simples de sistema de controle financeiro criado com o objetivo de treinar o uso de **API** e **frontend web**.
 
 *(Em constante evolução 🚀)*
 
