@@ -32,6 +32,10 @@ Busco minha **primeira oportunidade como Dev Júnior ou Estágio em Programaçã
 
 ### 📂 Projetos
 
+🔹 Projetos completos:
+
+🔹🔹 **Denise Costura Criativa**: Site feito para minha mãe em formato e-commerce, disponível em: www.denisecosturacriativa.com.br
+
 🔹 Projetos desenvolvidos durante o curso Fullstack JavaScript:
 
 🔹🔹 **Controle Financeiro**: Projeto simples de sistema de controle financeiro criado com o objetivo de treinar o uso de **API** e **frontend web**.
