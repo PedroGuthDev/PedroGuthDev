@@ -8,25 +8,7 @@
 📚 Graduando em Análise e Desenvolvimento de Sistemas (ADS)
 
 Sou focado em desenvolvimento web, com interesse em backend e aplicações fullstack.  
-Busco minha **primeira oportunidade como Dev Júnior ou Estágio em Programação**.
-
----
-
-### 🚀 Tecnologias e Ferramentas
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![HTML5](https://img.shields.io/badge/HTML5-Markup-orange)
-![CSS3](https://img.shields.io/badge/CSS3-Styles-blue)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red)
-![GitHub](https://img.shields.io/badge/GitHub-Code-black)
-![SQL](https://img.shields.io/badge/SQL-Basic-blue)
-
----
-
-### 🌍 Idiomas
-![Português](https://img.shields.io/badge/Português-Nativo-green)
-![English](https://img.shields.io/badge/English-Advanced-brightgreen)
+Busco minha **primeira oportunidade como Dev Júnior**.
 
 ---
 
@@ -34,15 +16,28 @@ Busco minha **primeira oportunidade como Dev Júnior ou Estágio em Programaçã
 
 🔹 Projetos completos:
 
+🔹🔹 **Alles Guth Finance**: SaaS Fintech para finança pessoal, disponível em: www.allesguthfinance.com
+
+🔹🔹 **NgConstrua**: Landing page para uma empresa de reformas, disponível em: www.ngconstrua.com.br
+
 🔹🔹 **Denise Costura Criativa**: Site feito para minha mãe em formato e-commerce, disponível em: www.denisecosturacriativa.com.br
 
-🔹 Projetos desenvolvidos durante o curso Fullstack JavaScript:
 
-🔹🔹 **Controle Financeiro**: Projeto simples de sistema de controle financeiro criado com o objetivo de treinar o uso de **API** e **frontend web**.
+---
 
-🔹🔹 **React Kanban**: Taskboard estilo Kanban.
+### 🚀 Tecnologias e Ferramentas
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![Next](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![SQL](https://img.shields.io/badge/SQL-Basic-blue)
 
-🔹🔹 **Gestão de Estoque**: SPA feita para treinar o uso de React e typescript.
+---
+
+### 🌍 Idiomas
+![Português](https://img.shields.io/badge/Português-Nativo-green)
+![English](https://img.shields.io/badge/English-Advanced-brightgreen)
 
 ---
 
